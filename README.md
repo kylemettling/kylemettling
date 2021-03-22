@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=kylemettling.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://kylemettling.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kylemettlingdev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/KyleMettlingDev)
 
-## I'm a Developer, Eternal Learner and Caffeinated!!
+## I'm a Developer, Eternal Learner and Caffeine Advocate!!
 
 <!-- - 🔭 I just made another commit: [Become A VS Code SuperHero!][course]! -->
 
