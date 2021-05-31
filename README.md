@@ -7,10 +7,10 @@
 
 <!-- - 🔭 I just made another commit: [Become A VS Code SuperHero!][course]! -->
 
-- 🌱 I’m currently utilizing Full Stack JavaScript
-- 👯 I’m looking to maintain quality code and further collaborate with impactful teams
-- 🥅 2021 Goals: Open Source contributions and personal projects
-- ⚡ Fun fact: I love to play guitar, pull espresso shots and produce laughter!
+- I’m currently utilizing Full Stack JavaScript
+- I’m looking to maintain quality code and further collaborate with impactful teams
+- 2021 Goals: Open Source contributions and personal projects
+- Fun fact: I love to play guitar, pull espresso shots and produce laughter!
 
 ### Let's Connect:
 
