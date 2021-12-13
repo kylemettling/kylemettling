@@ -9,7 +9,7 @@
 
 - I’m currently utilizing Full Stack JavaScript
 - I’m looking to further maintain quality code and collaborate with impactful teams
-- 2021 Goals: Open Source contributions and personal projects
+- 2022 Goals: Open Source contributions and personal projects
 - Other pursuits: I love to play guitar (60s/70s/80s rock), pull espresso shots and produce laughter!
 
 ### Let's Connect:
