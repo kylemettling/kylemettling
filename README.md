@@ -40,10 +40,14 @@
 <br />
 <br />
 
-
- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kylemettling&theme=tokyonight&show_icons=true)](https://github.com/kylemettling/github-readme-stats)   
- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kylemettling&theme=tokyonight)](https://github.com/kylemettling/github-readme-stats)
----
+<div>
+ <a href="https://github.com/kylemettling">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/?username=kylemettling&theme=tokyonight&show_icons=true"/>
+ </a>   
+ <a href="https://github.com/kylemettling">
+ <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylemettling&theme=tokyonight" />
+ </a>  
+ </div>
 
 <!-- <details> -->
   <!-- <summary>:zap: Recent GitHub Activity</summary> -->
