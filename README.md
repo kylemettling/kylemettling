@@ -40,15 +40,15 @@
 <br />
 <br />
 
-<div>
-<!--  <a href="https://github.com/kylemettling">
+<!-- <div>
+ <a href="https://github.com/kylemettling">
  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=kylemettling&theme=tokyonight&show_icons=true"/>
- </a>    -->
+ </a>   
  <a href="https://github.com/kylemettling">
  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylemettling&theme=tokyonight" />
  </a>  
  </div>
-
+ -->
 <!-- <details> -->
   <!-- <summary>:zap: Recent GitHub Activity</summary> -->
 
